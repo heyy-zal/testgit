@@ -1,4 +1,5 @@
 <?php
  echo "new_user";
  echo "olld_user";
+ echo "user";
 ?>
